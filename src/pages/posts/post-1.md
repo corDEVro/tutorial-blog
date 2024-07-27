@@ -23,3 +23,5 @@ Publicado el: 25-07-2024
 ## Próximos pasos
 
 Terminaré el tutorial de Astro, y luego seguiré añadiendo más publicaciones. Mira este espacio para más por venir.
+
+https://cordevro-astro-blog.netlify.app/blog/
